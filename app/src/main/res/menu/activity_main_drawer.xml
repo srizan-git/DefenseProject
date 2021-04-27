@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeFragment"
+            android:title="Home" />
+        <item
+            android:id="@+id/locationInfoFragment"
+            android:title="Location Info"/>
+        <item
+            android:id="@+id/landmarkFragment"
+            android:title="Landmarks" />
+        <item
+            android:id="@+id/reportFragment"
+            android:title="Report" />
+
+    </group>
+
+    <item
+        android:id="@+id/logOut"
+        android:title="Logout"/>
+</menu>

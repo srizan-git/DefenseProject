@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858171786665",
+    "project_id": "defenceproject-4acd3",
+    "storage_bucket": "defenceproject-4acd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858171786665:android:e5d5035ed57c5b1379f0b8",
+        "android_client_info": {
+          "package_name": "com.olympiandroids.jonopod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858171786665-pp6cbjmstidq3odp688leg5da04k9k0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olympiandroids.jonopod",
+            "certificate_hash": "7812b3e28ac2cc5318a26bebafa3cc0cc34b9355"
+          }
+        },
+        {
+          "client_id": "858171786665-i7fedte5rhasut6b8m5rq1p8g6gurah7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbnsDYW_CYxZqyItiMZXsn5Q532ftP01k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858171786665-i7fedte5rhasut6b8m5rq1p8g6gurah7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
